@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Titanic is a 1997 American epic romantic disaster film written and directed by James Cameron. Incorporating both historical and fictionalized aspects, it is based on accounts of the sinking of RMS Titanic in 1912. The film stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love during the ship's maiden voyage. It also features an ensemble cast of Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner, and Bill Paxton.
